@@ -1,0 +1,12 @@
+{
+  "name": "refact-jest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.4.5"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
